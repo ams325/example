@@ -1,2 +1,4 @@
-function test1
+function a = test1
+a = 1;
+
 end
