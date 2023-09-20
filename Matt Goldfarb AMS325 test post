@@ -1,0 +1,4 @@
+function plate = initializePlate(n)
+plate=zeros(n,n);
+for i=1:n
+........
